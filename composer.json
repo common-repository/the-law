@@ -1,0 +1,7 @@
+{
+	"require": {
+
+		"htmlawed/htmlawed":"dev-master"
+
+	}
+}

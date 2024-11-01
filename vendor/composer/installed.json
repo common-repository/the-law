@@ -1,0 +1,38 @@
+[
+    {
+        "name": "htmlawed/htmlawed",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/kesar/HTMLawed.git",
+            "reference": "e210211dab9eb7feaa517d1705d21711dc29f36b"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/kesar/HTMLawed/zipball/e210211dab9eb7feaa517d1705d21711dc29f36b",
+            "reference": "e210211dab9eb7feaa517d1705d21711dc29f36b",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">4.4.0"
+        },
+        "time": "2013-12-17 12:52:09",
+        "type": "library",
+        "installation-source": "source",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-2.0+",
+            "LGPL-3.0"
+        ],
+        "description": "htmLawed - Process text with HTML markup to make it more compliant with HTML  standards and administrative policies",
+        "homepage": "http://www.bioinformatics.org/phplabware/internal_utilities/htmLawed/",
+        "keywords": [
+            "HTMLtidy",
+            "html",
+            "sanitize",
+            "strip",
+            "tags"
+        ]
+    }
+]

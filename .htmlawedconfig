@@ -1,0 +1,8 @@
+[HTMLawed]
+safe=1
+keep_bad=0
+tidy=1
+
+[Filters]
+0='the_content'
+1='the_title'
